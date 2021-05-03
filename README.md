@@ -12,6 +12,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp </br>
   <img src="https://img.shields.io/badge/Amazone AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp 
 </p>
-<p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPandahun%2Fhit-counter&count_bg=%2300A4FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+
