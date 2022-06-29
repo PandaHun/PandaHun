@@ -11,12 +11,12 @@
 
 
 <details>
-<summary>(</summary>
+<summary>Github Stats</summary>
 <div markdown="1">
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PandaHun&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 </details>
 
-Github Stats
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PandaHun&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
